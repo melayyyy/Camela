@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"
+    content="IE=edge">
+    <meta name="viewport" 
+    content="width=device-width, 
+    initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <!--header-->
+    <header>
+       <table>
+        <tr>
+            <td>
+                <img src="https://scontent.fmnl13-1.fna.fbcdn.net/v/t1.15752-9/406219409_235976342700059_2561783560600455163_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeHLXQZ7_everd8S9dvdqj7hZapo4zBF68dlqmjjMEXrx2hUgSZvKXedDEbFgBsG2q30f0eHfP6_f5UZXxuDXp7e&_nc_ohc=NPLG4SjYPSIAX_BXnJr&_nc_ht=scontent.fmnl13-1.fna&oh=03_AdS4EcD4lpKicJm6_iQvB9MebjTr_Yrk7dWuw5sRoBe6qA&oe=658E056C" 
+                alt="" width="150px">
+            </td>
+            <td>
+                <h1> Camela H. Godilo</h1>
+            </td>
+        </tr>
+
+       </table>
+
+     </header>
+     <br>
+     <!--Personal Details-->
+     <section>
+        <h2>Personal Details</h2>
+        <hr>
+        <table>
+           <ul>
+            <li><b>Name:</b> Camela Hona Godilo</li>
+            <li><b>Email Address:</b> camelahonagodilo@gmail.com </li>
+            <li><b>Address:</b> Purok-3 J.P.Laurel Bulan Sorsogon</li>
+            <li><b>Phone Number:</b> 09203022200</li>
+            <li><b>Birthday:</b> September 13, 2003</li>
+            
+         
+        </table>
+     </section>
+     <br>
+     <!--Objectives-->
+     <section>
+        <h2>Objectives</h2>
+        <hr>
+        <p>
+            To gain more comprehensive experience will further improve my acquired skills and
+             knowledge while making a significant contribution to the success of the company.
+        </p>
+     </section>
+     <br>
+     <!--Work Experience-->
+     <section>
+        <h2>Work Experience</h2>
+        <hr>
+        <table >
+            <tr>
+                <td>
+                    <strong>June 2021 - December 2021</strong>
+
+                </td>
+                <td>
+                    6 months On the job training in the Daegyoung Apparel( Sewer) in the Tanza, Cavite
+
+                </td>
+            </tr>
+        </table>
+     </section>
+     <br>
+     <!--Education-->
+     <section>
+        <h2>Education</h2>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <strong>2011-2016</strong>
+
+                </td>
+                <td>
+                    <p>J.P.Laurel Elementary School</p>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>2016-2021</strong>
+
+                </td>
+                <td>
+                    <p>The Sisters of Mary of Banneux Inc.</p>
+
+                </td>
+            </tr>
+           
+
+                </td>
+            </tr>
+        </table>
+     </section>
+     <!--Skills-->
+     <section>
+        <h2>Skills</h2>
+        <hr>
+        <ul>
+            <li> Teamwork  </li>
+            <li> Communication Skills  </li>
+            <li> Computer Literate  </li>
+            <li> Flexible  </li>
+
+        </ul>
+
+     </section>
+     <h2> Character Reference</h2>
+     <hr>
+     <ul>
+        <li>Ronald Godilo</li>
+        <li>09090878325</li>
+
+     </ul>
+     
+    
+
+
+
+
+
+
+     <br><br><br>
+</body>
+</html>
